@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894108937",
+    "project_id": "farming-based-db",
+    "storage_bucket": "farming-based-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894108937:android:42b4abd685ec4d2011bfd8",
+        "android_client_info": {
+          "package_name": "com.example.farmtor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894108937-m5na6l37h7tfkr79n0mh7n3jslj75cpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr0fK1wzCr2ZN2J6LQ1JHkn5xG1QyfzlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894108937-m5na6l37h7tfkr79n0mh7n3jslj75cpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
